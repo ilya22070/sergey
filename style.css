@@ -139,12 +139,20 @@ footer a {
   flex-grow: 1;
 }
 
-.ask__form {
+.section__form {
   margin: 0 auto;
 }
 
 .ask__title {
   margin-bottom: 15px;
+}
+
+form div{
+  margin-top: 10px;
+}
+
+form button{
+  margin-top: 10px;
 }
 
 @media (max-width: 1200px) {
